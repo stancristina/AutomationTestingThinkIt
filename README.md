@@ -1,1 +1,1 @@
-# AutomationTestingThinkIy
+# AutomationTestingThinkIt
